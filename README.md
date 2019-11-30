@@ -13,7 +13,7 @@ joblib
 tpot
 
 ## reproduce your result
-data processing：Data Processing_train.py
+data processing：DataProcessing_train.py & DataProcessing_test.py
 
 train model：tpot20_exported_pipeline.py
 
