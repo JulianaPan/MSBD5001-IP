@@ -1,6 +1,15 @@
 # MSBD5001-IP
 
-## Data Processing
+## programming languages
+Python
 
+## required packages
+pandas
+sklearn
+joblib
+tpot
 
-## Train Model
+## reproduce your result
+data processing：DATa Processing_train.py
+train model：Train_Model.py
+predict: predict.py
