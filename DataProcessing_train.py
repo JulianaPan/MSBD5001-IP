@@ -3,7 +3,7 @@ import pandas as pd # used for handling the dataset
 # sklearn libraries
 from sklearn.linear_model import LinearRegression       # build model
 from sklearn.externals import joblib        # save model
-
+import datetime
 
 ''' Loading Data '''
 df_train = pd.read_csv('data/train.csv',parse_dates=['purchase_date','release_date'])
