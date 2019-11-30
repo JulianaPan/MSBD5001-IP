@@ -15,7 +15,7 @@ tpot
 ## reproduce your result
 data processing：Data Processing_train.py
 
-train model：Train_Model.py
+train model：tpot20_exported_pipeline.py
 
 predict: predict.py
 
