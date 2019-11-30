@@ -13,7 +13,7 @@ joblib
 tpot
 
 ## reproduce your result
-data processing：DATa Processing_train.py
+data processing：Data Processing_train.py
 
 train model：Train_Model.py
 
